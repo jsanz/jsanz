@@ -1,3 +1,5 @@
+![](./1500x500.jpeg)
+
 ### Hi 👋
 
 I'm Jorge, I'm from Valencia, Spain, living in [Aldaia](http://www.openstreetmap.org/?lat=39.46473&amp;lon=-0.46203&amp;zoom=15&amp;layers=M), near the city. I studied Cartography and Geodesy Engineering, and I develop my professional career around Geospatial Information Systems and Open Source Software. I'm currently working ath the [Kibana Maps](https://www.elastic.co/es/maps) team at [Elastic](https://www.elastic.co/) as a data engineer.
