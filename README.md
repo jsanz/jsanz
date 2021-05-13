@@ -2,9 +2,9 @@
 
 ### Hi 👋
 
-I'm Jorge, I'm from Valencia, Spain, living in [Aldaia](http://www.openstreetmap.org/?lat=39.46473&amp;lon=-0.46203&amp;zoom=15&amp;layers=M), near the city. I studied Cartography and Geodesy Engineering, and I develop my professional career around Geospatial Information Systems and Open Source Software. I'm currently working ath the [Kibana Maps](https://www.elastic.co/es/maps) team at [Elastic](https://www.elastic.co/) as a data engineer.
+I'm Jorge, I'm from Valencia, Spain, living in [Aldaia](http://www.openstreetmap.org/?lat=39.46473&amp;lon=-0.46203&amp;zoom=15&amp;layers=M), near the city. My background is in Cartography and Geodesy Engineering, and I develop my professional career around Geospatial Information Systems and Open Source Software and Data. I'm currently working at the [Kibana Maps](https://www.elastic.co/es/maps) team at [Elastic](https://www.elastic.co/) as a geospatial engineer.
 
-You can check my [blog](https://jorgesanz.net/blog/), or my [now page](https://jorgesanz.net/now/) for more details about myself and what I'm up to these days.
+You can check my [resume](https://jorgesanz.net/resume/), [blog](https://jorgesanz.net/blog/),  and [now page](https://jorgesanz.net/now/) for more details about myself and what I'm up to these days.
 
 #### Contact
 
