@@ -11,7 +11,3 @@ You can check my [resume](https://jorgesanz.net/resume/), [blog](https://jorgesa
 Feel free to contact/connect on [Mastodon](https://mapstodon.space/@jorgesanz) or [Linkedin](http://www.linkedin.com/in/jsanz).
 
 _Have a great day!!_
-
-
-proven202a89
-
